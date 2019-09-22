@@ -16,6 +16,10 @@ pip install numpy h5py tensorflow keras
 ## Usage
 
 ```sh
+run python -m resnet50.task
+
+---or---
+
 Open ResNet50.ipynb and run cells to train and predict from the included dataset of hand images representing numbers.
 ```
 
